@@ -1,0 +1,11 @@
+{
+    "auth_not_required": [
+        "/v1/auth/login",
+        "/v1/auth/register",
+        "/docs",
+        "/openapi.json",
+        "/redoc",
+        "/favicon.ico",
+        "/health"
+    ]
+}

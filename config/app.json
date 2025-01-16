@@ -1,0 +1,28 @@
+{
+    "app_name": "Key Account Manager (KAM)",
+    "version": "1.0.0",
+    "description": "",
+    "port": 8000,
+    "host": "127.0.0.1",
+    "local": {
+        "db_host": "127.0.0.1",
+        "db_port": 5432,
+        "database": "udaan",
+        "db_user": "postgres",
+        "db_password": "password"
+    },
+    "prod": {
+        "db_host": "127.0.0.1",
+        "db_port": 5432,
+        "database": "udaan",
+        "db_user": "postgres",
+        "db_password": "password"
+    },
+    "test": {
+        "db_host": "127.0.0.1",
+        "db_port": 5432,
+        "database": "udaan",
+        "db_user": "postgres",
+        "db_password": "password"
+    }
+}
